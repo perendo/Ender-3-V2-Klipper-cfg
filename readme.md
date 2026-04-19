@@ -6,5 +6,6 @@ Todavia me queda conseguir alguna macro que cubra el que se vaya la luz.
 
 Espero os sirva, es mi primer git, y espero no sea el último.
 
+19-04-2026 Actualizo el M600
 
 "# Ender-3-V2-Klipper-cfg" 
